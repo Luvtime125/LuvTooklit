@@ -2,7 +2,7 @@ New Update features
 
 1. support 3 languages (English.Spanish.Chinese)
 2. 0 cost of power ups
-3. 1 Seed Packet Cost (you need to clim any pinata to get some seed to unlock plants)
+3. 1 Seed Packet Cost (with this option you can unlock any plant that has a seed cost with only 1 seed just like Goo Peashooter its need 250 seed to unlack but with this option it will be only 1 cost)
 4. Coming soon!
 
 
